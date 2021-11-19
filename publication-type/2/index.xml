@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Thalia Vrantsidis</title>
+    <link>https://thaliavrantsidis.github.io/publication-type/2/</link>
+      <atom:link href="https://thaliavrantsidis.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thaliavrantsidis.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://thaliavrantsidis.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Knowledge about a Group on Perceived Group Variability and Certainty about Stereotype-Based Inferences</title>
+      <link>https://thaliavrantsidis.github.io/publication/2021-homogeneity-paper/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://thaliavrantsidis.github.io/publication/2021-homogeneity-paper/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;An earlier version of this work appeared as a conference paper at CogSci 2020.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
